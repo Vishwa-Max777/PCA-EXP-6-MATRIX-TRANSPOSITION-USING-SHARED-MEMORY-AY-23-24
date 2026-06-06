@@ -1,7 +1,7 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY
 
-<h3>NAME: PREM PRASANTH J </h3>
-<h3>REGISTER NO: 2305001028 </h3>
+<h3>NAME: D.Vishwa</h3>
+<h3>REGISTER NO: 2305001034</h3>
 
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
